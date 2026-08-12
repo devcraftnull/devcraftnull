@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Full-Stack Developer with internship experience building production-ready web applications using React, Node.js, TypeScript, Express, and MongoDB. Experienced in developing REST APIs, implementing JWT authentication, and deploying scalable applications on Vercel. Passionate about building maintainable software and continuously improving engineering skills.
+Junior Full-Stack Developer with experience building production-ready web applications using React, Node.js, TypeScript, Express, and MongoDB. Experienced in developing REST APIs, implementing JWT authentication, and deploying scalable applications on Vercel. Passionate about building maintainable software and continuously improving engineering skills.
 
 
 ## 🌐 Socials:
